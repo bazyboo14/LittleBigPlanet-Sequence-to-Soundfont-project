@@ -4,4 +4,4 @@ this is a heavy WIP and I'll be trying to add as many Soundfonts as needed to th
 ## How to use:
 - each Soundfont is organized the same way they are in the files of LittleBigPlanet (ex: all Baiyon sounds are in Baiyon.SF2) and each individual instrument is a patch or preset in the .SF2 file
 - if the Soundfont is a instument consisting of many samples each patch starts at A-1 for their lowest note and each octave is a different sample from the instrument
-- if the Soundfont is a normal instrument than it will be C1 to C6
+- if the Soundfont is a normal instrument than it will be C1 to C5
