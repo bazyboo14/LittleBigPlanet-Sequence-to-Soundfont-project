@@ -1,4 +1,4 @@
-# LittleBigPlanet-Sequence-to-Soundfont-project
+# LittleBigPlanet Sequence to Soundfont Project
 This project is meant to contain some sound fonts that use the same samples as the Music Sequencer Instruments, thus converting Sequencer to Soundfont
 this is a heavy WIP and I'll be trying to add as many Soundfonts as needed to this.
 ## How to use:
